@@ -1,4 +1,4 @@
 # Fresh
-Fresh Skin for closedYC
+Fresh Skin for SourceGW
 
-plz contribute stuff bc the skin lowkey SUCKS ASS ! ! !
+if somebody wants to port this to work on their site and use it go ahead idgaf lol
